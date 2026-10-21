@@ -11,7 +11,6 @@ from aiogram.fsm.context import FSMContext
 from aiogram.types import ChatMemberUpdated
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 
-from functions import *
 from cfg import token
 
 import sqlite3
